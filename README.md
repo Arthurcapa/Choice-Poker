@@ -1,6 +1,6 @@
 # Choice-Poker
 
-Trabalho feito em Java para a matéria de Engenharia de Software na UFSC
+Trabalho feito em Java para a matéria de Engenharia de Software na UFSC em 2019.1
 
 Trata-se de uma implementação do jogo Choice Poker em Java, a implementação utiliza do servidor NetGames disponível em "https://www.inf.ufsc.br/~ricardo.silva/hp/netgamesInstalar.html" para estabelecer conexão entre dois jogadores, o NetGames NÃO é de minha autoria e o servidor NetGames NÃO está neste repositório.
 
